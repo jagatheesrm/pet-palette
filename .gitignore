@@ -6,6 +6,10 @@
 /storage/*.key
 /storage/pail
 /vendor
+
+/database/dump
+petpalette.zip
+
 .env
 .env.backup
 .env.production
