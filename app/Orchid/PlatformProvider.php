@@ -56,10 +56,10 @@ class PlatformProvider extends OrchidServiceProvider
             //     ->icon('bs.people')
             //     ->route('platform.clients'),
                 
-            //     Menu::make('Tasks')
-            // ->icon('bag')
-            // ->route('platform.task')
-            // ->title('Tools'),
+                Menu::make('Tasks')
+            ->icon('bag')
+            ->route('platform.task')
+            ->title('Tools'),
 
             // Menu::make('Form Elements')
             //     ->icon('bs.card-list')
